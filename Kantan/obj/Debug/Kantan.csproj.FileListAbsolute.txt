@@ -1,0 +1,14 @@
+C:\Users\adriel.souza\source\repos\Kantan\Kantan\bin\Debug\Kantan.exe.config
+C:\Users\adriel.souza\source\repos\Kantan\Kantan\bin\Debug\Kantan.exe
+C:\Users\adriel.souza\source\repos\Kantan\Kantan\bin\Debug\Kantan.pdb
+C:\Users\adriel.souza\source\repos\Kantan\Kantan\obj\Debug\Kantan.csprojAssemblyReference.cache
+C:\Users\adriel.souza\source\repos\Kantan\Kantan\obj\Debug\Kantan.Form1.resources
+C:\Users\adriel.souza\source\repos\Kantan\Kantan\obj\Debug\Kantan.Properties.Resources.resources
+C:\Users\adriel.souza\source\repos\Kantan\Kantan\obj\Debug\Kantan.csproj.GenerateResource.cache
+C:\Users\adriel.souza\source\repos\Kantan\Kantan\obj\Debug\Kantan.csproj.CoreCompileInputs.cache
+C:\Users\adriel.souza\source\repos\Kantan\Kantan\obj\Debug\Kantan.exe
+C:\Users\adriel.souza\source\repos\Kantan\Kantan\obj\Debug\Kantan.pdb
+C:\Users\adriel.souza\source\repos\Kantan\Kantan\bin\Debug\Kantan.exe.manifest
+C:\Users\adriel.souza\source\repos\Kantan\Kantan\bin\Debug\Kantan.application
+C:\Users\adriel.souza\source\repos\Kantan\Kantan\obj\Debug\Kantan.exe.manifest
+C:\Users\adriel.souza\source\repos\Kantan\Kantan\obj\Debug\Kantan.application

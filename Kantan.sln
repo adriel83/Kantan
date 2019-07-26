@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kantan", "Kantan\Kantan.csproj", "{1E4CEE41-C9DE-40BE-A301-9A4E122626EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E4CEE41-C9DE-40BE-A301-9A4E122626EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E4CEE41-C9DE-40BE-A301-9A4E122626EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E4CEE41-C9DE-40BE-A301-9A4E122626EB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1E4CEE41-C9DE-40BE-A301-9A4E122626EB}.Debug|x64.Build.0 = Debug|Any CPU
+		{1E4CEE41-C9DE-40BE-A301-9A4E122626EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E4CEE41-C9DE-40BE-A301-9A4E122626EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E4CEE41-C9DE-40BE-A301-9A4E122626EB}.Release|x64.ActiveCfg = Release|Any CPU
+		{1E4CEE41-C9DE-40BE-A301-9A4E122626EB}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18FAC6DB-0693-4736-8BBB-E91E7A37D5E3}
+	EndGlobalSection
+EndGlobal
