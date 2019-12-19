@@ -51,9 +51,9 @@
             this.arquivoToolStripMenuItem,
             this.editarToolStripMenuItem,
             this.formatarToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Location = new System.Drawing.Point(5, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(800, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(721, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -70,21 +70,21 @@
             // novoToolStripMenuItem
             // 
             this.novoToolStripMenuItem.Name = "novoToolStripMenuItem";
-            this.novoToolStripMenuItem.Size = new System.Drawing.Size(105, 22);
+            this.novoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.novoToolStripMenuItem.Text = "Novo";
             this.novoToolStripMenuItem.Click += new System.EventHandler(this.NovoToolStripMenuItem_Click);
             // 
             // abrirToolStripMenuItem
             // 
             this.abrirToolStripMenuItem.Name = "abrirToolStripMenuItem";
-            this.abrirToolStripMenuItem.Size = new System.Drawing.Size(105, 22);
+            this.abrirToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.abrirToolStripMenuItem.Text = "Abrir";
             this.abrirToolStripMenuItem.Click += new System.EventHandler(this.AbrirToolStripMenuItem_Click);
             // 
             // salvarToolStripMenuItem
             // 
             this.salvarToolStripMenuItem.Name = "salvarToolStripMenuItem";
-            this.salvarToolStripMenuItem.Size = new System.Drawing.Size(105, 22);
+            this.salvarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.salvarToolStripMenuItem.Text = "Salvar";
             this.salvarToolStripMenuItem.Click += new System.EventHandler(this.SalvarToolStripMenuItem_Click_1);
             // 
@@ -140,20 +140,19 @@
             this.caixaTexto.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.caixaTexto.Location = new System.Drawing.Point(0, 27);
+            this.caixaTexto.Location = new System.Drawing.Point(5, 27);
             this.caixaTexto.Name = "caixaTexto";
-            this.caixaTexto.Size = new System.Drawing.Size(800, 403);
+            this.caixaTexto.Size = new System.Drawing.Size(721, 403);
             this.caixaTexto.TabIndex = 1;
             this.caixaTexto.Text = "";
             this.caixaTexto.WordWrap = false;
-            this.caixaTexto.ZoomFactor = 1.25F;
             this.caixaTexto.SelectionChanged += new System.EventHandler(this.CaixaTexto_SelectionChanged);
             // 
             // label1
             // 
             this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(3, 433);
+            this.label1.Location = new System.Drawing.Point(8, 433);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(59, 13);
             this.label1.TabIndex = 2;
@@ -164,7 +163,7 @@
             // 
             this.labelContador.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.labelContador.AutoSize = true;
-            this.labelContador.Location = new System.Drawing.Point(673, 433);
+            this.labelContador.Location = new System.Drawing.Point(599, 433);
             this.labelContador.Name = "labelContador";
             this.labelContador.Size = new System.Drawing.Size(58, 13);
             this.labelContador.TabIndex = 3;
@@ -174,13 +173,15 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(731, 450);
             this.Controls.Add(this.labelContador);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.caixaTexto);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
+            this.Padding = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.ShowIcon = false;
             this.Text = "Kantan ー Sem Título";
             this.menuStrip1.ResumeLayout(false);

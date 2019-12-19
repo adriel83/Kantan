@@ -72,16 +72,10 @@ namespace Kantan
                 if (caixaMensagem == DialogResult.Yes)
                 {
                     salvarArquivo();
-                    caixaTexto.ResetText();
-                    label1.Text = "Kantan 0.1";
-                    Form1.ActiveForm.Text = "Kantan ー Sem Título";
                 }
-                else
-                {
-                    caixaTexto.ResetText();
-                    label1.Text = "Kantan 0.1";
-                    Form1.ActiveForm.Text = "Kantan ー Sem Título";
-                }
+                caixaTexto.ResetText();
+                label1.Text = "Kantan 0.1";
+                Form1.ActiveForm.Text = "Kantan ー Sem Título";
             }
         }
         private void salvarArquivo()

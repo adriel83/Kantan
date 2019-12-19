@@ -7,14 +7,14 @@
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Kantan.exe.manifest" size="3464">
+    <dependentAssembly dependencyType="install" codebase="Kantan.exe.manifest" size="3471">
       <assemblyIdentity name="Kantan.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>l4l0T63ggPXGkKNaZjKjRNhD73RJ+2yxq73QQZL2J8k=</dsig:DigestValue>
+        <dsig:DigestValue>1692TlwbwcuILAtOU9i7dezgStAAlvABAsgs37apXY4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
